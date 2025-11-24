@@ -1,0 +1,235 @@
+This video is going to be different than most of the videos that I do because it's not a technical video.
+In this video, I'm going to talk about how I generate ideas for data-driven stories and data visualizations,
+because the way that you might first approach it is probably not the best way to approach it.
+Secret, like if you don't want to watch the whole video, the answer is reading things, not looking for data,
+but we'll kind of step through the process in this video and see how it works out with a very specific example.
+So, what we're going to start with is some sub-stack newsletter that was linked from some other newsletter that I read earlier this week,
+and I found a very interesting tidbit in it, which is that 20,000 Russian villages have been completely abandoned in recent years,
+and 36,000 others have fewer than 10 inhabitants left and will follow them soon.
+The third of land once farmed in the former USSR has now been abandoned.
+So, that's interesting, and this is something that can be our jumping off point. It can be our start.
+What you might do initially, if you have kind of a narrow view of things, is you say,
+okay, I'm just going to make this be my story.
+If you're going to Google something about, you know, the Russian census, you're going to end up on their census web page,
+you're going to scroll around, download some stuff, and attempt to maybe make a map of this, make a chart of this,
+show, you know, the trend is going down.
+Here's all of the places that exist in Russia that, you know, don't exist anymore because everyone died or moved or whatever.
+But that is, I would say, a very narrow way of looking at things.
+What I want us to do is take this idea and then spin it into something a little bit bigger,
+or kind of research the field and see what else we can come up with.
+So, if we're thinking about the idea of Russian villages being abandoned and other places that have fewer than ten inhabitants left,
+we might call that depopulation, right?
+So, there were people there and now there aren't people there.
+Let's learn a little bit more about depopulation.
+So, what we'll do is we'll just search it on Wikipedia.
+I'm going to look up depopulation, I'm going to find Wikipedia, and I'm going to just click the first three links here.
+Population reduction, human population planning, and population decline.
+Along with that, along with the concept of, you know, there being fewer people,
+there's also the concept here of abandoned places.
+Now, when we think about abandoned places, at least in my mind, I think about ghost towns.
+So, ghost towns being places that had people, people no longer live there, but there are still buildings there.
+I also think of urban exploration.
+So, the idea of when you have usually abandoned places that people can explore.
+So, these are going to be all of our starting points.
+Population decline, human population planning, population reduction.
+No, that's nothing.
+We'll just get rid of it.
+Ghost towns and urban exploration.
+And what we're going to do now is we're literally just going to read these Wikipedia pages.
+Because as you read the Wikipedia pages, every now and again, they're little interesting bits that come out.
+So, the human growth rate accelerated at some point.
+Now, it has declined.
+The global growth rate has changed.
+Here's what projections are examples are Japan.
+Examples are China.
+Examples are the projection of Europe in the future.
+All of these are different things that we could click on and learn about more and turn into a story on our own.
+For example, we're saying, in China whose population could start declining in 2027 or sooner.
+And you think, okay, I might go search China population projections.
+No, don't do that yet.
+Don't do that yet.
+What you want to do is just this little four here.
+Say, okay, where did this information come from?
+Where was this cited?
+It's a piece in the New York Times.
+We're going to open it up and we're going to see.
+Okay.
+Oh, come on.
+It's because I'm in incognito mode.
+They won't let me read this.
+Okay.
+So as we start to read through this, we see that this is already a data-driven story.
+Right?
+They say, you know, here's what it was.
+Here's the projection.
+Here's one way of visualizing it.
+Another way of visualizing it.
+Another way of visualizing it.
+Whether it's the population, whether it's the fertility rate, different ways of projecting it here.
+If we feel like we can't write the story about China because we're looking at this story and it's already about China.
+So we would be embarrassed to write the same story the New York Times did.
+Also we'd probably do a worse job at it.
+There are two things that we can do.
+Number one, we can see when this was published and see if maybe we can update it.
+In this case, this interactive is from 2019.
+So it's pretty recent.
+So there probably wouldn't be any benefit to redoing it.
+But because this was specifically about China, we can get inspiration from all of these different ways the data was visualized and maybe do it about another country.
+And you might think, well, what other country could we do this about?
+And I say, look, we're still doing research.
+We're still doing research, right?
+We don't want China data yet.
+We don't want data from other countries yet.
+We just know, okay, let's save this page, we'll keep it as an open tab or something.
+We'll remember these are different ways it can be visualized.
+We might think, oh, fertility rates, maybe that's something else we can search on Wikipedia.
+But for now, we'll just keep reading through population decline.
+It talks about all the different reasons why it could go up while the population could go down.
+And now we get to, oh, hey, contemporary decline by country.
+There's all kinds of different countries.
+So if instead of talking about China, we wanted to talk about Latvia, we can scroll down to Latvia.
+We can say, okay, how have people talked about Latvia?
+Well, they have a negative natural population growth, but there's also a negative net migration rate.
+So I would assume this is the idea that people are more likely to move out of Latvia than into Latvia.
+So that's another angle we could approach this from.
+Let's check this 52 site here.
+Let's check this, it's the same citation there.
+So what do we learn about Latvia?
+Oh, this is not a New York Times piece.
+This is not a fancy piece here.
+Maybe that is an opportunity for us to make something that is a nice data-driven piece
+about Latvia instead of it being the New York Times piece about China.
+Now, these stories are usually better when there's some sort of event that happened.
+For example, the Chinese piece kind of focuses on the one-child policy.
+If we scroll down here, if we can find one of these sections that is a little bit bigger,
+a little bit more information about what's going on here,
+like for example, Russia, further information, Russian cross.
+And you say, okay, what's the Russian cross?
+I don't know what the Russian cross is.
+You click here to demographic trend that occurred in Russia as a result of the Warsaw Pact.
+You're like, well, what's the Warsaw Pact?
+You click through and you think, okay, it has to do with Eastern Bloc countries.
+And you say, okay, maybe I can dig into the Warsaw Pact.
+And I could do a piece much like the New York Times piece about China,
+but instead of highlighting, it happened as a result of the one-child policy.
+I could contextualize it in relationship to the Russian cross.
+And look at all these things that we could talk about here.
+All these things, you just read all this, you make a story about it's great.
+It's wonderful, you're having a good time.
+All of this stuff, every single one of these little citations here,
+there's a chance that it has some sort of information or some sort of charts
+or some sort of graphics or some sort of data that we could spin into a story.
+Because unlike, let's say, the federal statistics service from Russia,
+which is just kind of dumping information out,
+oftentimes the citation pages on Wikipedia are more academic papers.
+They're a little bit more specific.
+The graphics are probably going to be uglier and things that you could remake
+into an actual data-driven piece.
+So, along with this, population decline, sure, ghost towns also fun.
+We could read through this ghost town one.
+And it says, we got deserted cities, we got abandoned cities.
+Great, what are some reasons why they might get abandoned?
+We'll go down here, they talk about some certain reasons,
+along with the general trend of ghost towns, though,
+if we looked for ghost town data.
+The data that we might get is really just a map of ghost towns,
+which I would say isn't that interesting.
+You could just say, here's stuff that happened, you know,
+here's a map we're kind of done.
+There's not much you can do.
+But if we start to read through this,
+it might start to give us ideas about specific cities
+that we could highlight and contextualize the idea of ghost towns.
+So, for example, flooding by dams.
+Let's see, we can say the lost villages of Ontario.
+They were flooded by a sea weight construction in 1958.
+That seems pretty fun.
+Click through to this.
+There was 10 communities that were in Ontario.
+They ended up being flooded.
+We scroll down, we see an animation here.
+That's about changes to the river as a result of the dam.
+Is this animated?
+Doesn't the little babyest animation, maybe?
+I think this could make a really good scrolling telling piece.
+Whereas you scroll down, you can see the changes in
+where the flooding is, where the dam was constructed.
+You know, it doesn't have to be data in terms of numbers.
+It can be data also in terms of, here's a map,
+here's an annotated map.
+What else have we got here?
+Does these in contamination?
+You know, we live in the age of COVID.
+Going through something like...
+Let's see.
+Dioxins, no.
+Let's actually find something that is,
+I guess these aren't really diseases.
+Oh, the great famine.
+Okay.
+So, some places an Eastern Arkansas were abandoned after
+more than 7,000 Arkansas, Arkansas,
+Arkansas, Arkansas, Arkansas,
+Arkansas died during the Spanish flu epidemic.
+Everyone loves to talk about Spanish flu now
+because it's the closest thing we have to COVID.
+Hey, look at that.
+We have a citation here.
+We have another citation here.
+I guess that's not going to be a very good one
+because this link isn't going to get us anywhere.
+So, we might have to do a little bit more research outside of Wikipedia
+to talk about Arkansas during the Spanish flu.
+It's just, you read, you read, you read.
+And then you find all of these citations
+and you go through and you check them out.
+Maybe you find a story that's not necessarily data-driven.
+You find literally nothing but things locked behind
+different kinds of paywalls.
+But the idea is don't search for data.
+Search for things that are interesting.
+So, in Algeria, many cities became hamlets after the end of late antiquity.
+But, after the French colonization of Algeria,
+Iran became the nation's second largest city in Algeria
+when it was a village of only a few thousand people before colonization.
+So, we do not have a citation there,
+but it might be very easy to show maybe the change in shape
+of Iran over that time.
+Now, you know, I was doing a little bit of searching beforehand
+and found some fun stuff about...
+No, we're never going to find it.
+Never going to find it.
+Anyway, just trust that this is a great way to come up with ideas,
+browsing Wikipedia, looking at the citations,
+finding little tiny mentions here and there
+about things that might be able to be spun into a nice big story.
+Anything that is a sentence that is important enough to be in Wikipedia
+and not deleted by an overzealous editor,
+you can probably probably probably spend that whole thing into a story.
+Just don't search for data automatically.
+Read, read, read. Come up with a list of stories.
+Come up with context about this.
+If you wrote a story about population decline in Russia,
+simply based on that one sentence that we had before,
+where it said 20,000 Russian villages have been abandoned,
+all you could do is make a map.
+You don't know why villages end up being abandoned.
+You don't know why these places with fewer than ten inhabitants
+are going to be gone soon.
+You might think other than they're going to die,
+but if you start to read these things about population decline,
+if you start to learn about negative net migration rate,
+then you'll start to have more words that you can throw with that,
+more supplementary data sets that we can put in there.
+Just more information you have,
+even if you're not an expert on the topic,
+if you gain 30 minutes of reading on Wikipedia,
+you're going to do way better in your ability to contextualize the eventual data
+that you do find and find stories and data and information to start with.
+That is not just, hey, I saw one sentence somewhere,
+I'm just going to go to the Census Bureau and get some data there.
+So there you go.
+That's the way that I do things.
+I literally just read Wikipedia and I click links
+and then eventually hopefully I find something that's kind of fun.
+Good luck.

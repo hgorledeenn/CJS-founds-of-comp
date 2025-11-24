@@ -1,0 +1,21 @@
+P,Team,GP,W,D,L,F,A,GD,Pts,Form
+1,Arsenal,9,7,1,1,16,3,13,22,Drew 1-1 with Man CityWon 2-1 against NewcastleWon 2-0 against West HamWon 1-0 against FulhamWon 1-0 against C Palace
+2,AFC Bournemouth,9,5,3,1,16,11,5,18,Drew 0-0 with NewcastleDrew 2-2 with LeedsWon 3-1 against FulhamDrew 3-3 with C PalaceWon 2-0 against Nottm Forest
+3,Spurs,9,5,2,2,17,7,10,17,Drew 2-2 with BrightonDrew 1-1 with WolvesWon 2-1 against LeedsLost 1-2 to Aston VillaWon 3-0 against Everton
+4,Sunderland,9,5,2,2,11,7,4,17,Drew 1-1 with Aston VillaWon 1-0 against Nottm ForestLost 0-2 to Man UtdWon 2-0 against WolvesWon 2-1 against Chelsea
+5,Man City,9,5,1,3,17,7,10,16,Drew 1-1 with ArsenalWon 5-1 against BurnleyWon 1-0 against BrentfordWon 2-0 against EvertonLost 0-1 to Aston Villa
+6,Man Utd,9,5,1,3,15,14,1,16,Won 2-1 against ChelseaLost 1-3 to BrentfordWon 2-0 against SunderlandWon 2-1 against LiverpoolWon 4-2 against Brighton
+7,Liverpool,9,5,0,4,16,14,2,15,Won 2-1 against EvertonLost 1-2 to C PalaceLost 1-2 to ChelseaLost 1-2 to Man UtdLost 2-3 to Brentford
+8,Aston Villa,9,4,3,2,9,8,1,15,Drew 1-1 with SunderlandWon 3-1 against FulhamWon 2-1 against BurnleyWon 2-1 against SpursWon 1-0 against Man City
+9,Chelsea,9,4,2,3,17,11,6,14,Lost 1-2 to Man UtdLost 1-3 to BrightonWon 2-1 against LiverpoolWon 3-0 against Nottm ForestLost 1-2 to Sunderland
+10,C Palace,9,3,4,2,12,9,3,13,Won 2-1 against West HamWon 2-1 against LiverpoolLost 1-2 to EvertonDrew 3-3 with AFC BournemouthLost 0-1 to Arsenal
+11,Brentford,9,4,1,4,14,14,0,13,Lost 1-3 to FulhamWon 3-1 against Man UtdLost 0-1 to Man CityWon 2-0 against West HamWon 3-2 against Liverpool
+12,Newcastle,9,3,3,3,9,8,1,12,Drew 0-0 with AFC BournemouthLost 1-2 to ArsenalWon 2-0 against Nottm ForestLost 1-2 to BrightonWon 2-1 against Fulham
+13,Brighton,9,3,3,3,14,15,-1,12,Drew 2-2 with SpursWon 3-1 against ChelseaDrew 1-1 with WolvesWon 2-1 against NewcastleLost 2-4 to Man Utd
+14,Everton,9,3,2,4,9,12,-3,11,Lost 1-2 to LiverpoolDrew 1-1 with West HamWon 2-1 against C PalaceLost 0-2 to Man CityLost 0-3 to Spurs
+15,Leeds,9,3,2,4,9,14,-5,11,Won 3-1 against WolvesDrew 2-2 with AFC BournemouthLost 1-2 to SpursLost 0-2 to BurnleyWon 2-1 against West Ham
+16,Burnley,9,3,1,5,12,17,-5,10,Drew 1-1 with Nottm ForestLost 1-5 to Man CityLost 1-2 to Aston VillaWon 2-0 against LeedsWon 3-2 against Wolves
+17,Fulham,9,2,2,5,9,14,-5,8,Won 3-1 against BrentfordLost 1-3 to Aston VillaLost 1-3 to AFC BournemouthLost 0-1 to ArsenalLost 1-2 to Newcastle
+18,Nottm Forest,9,1,2,6,5,17,-12,5,Drew 1-1 with BurnleyLost 0-1 to SunderlandLost 0-2 to NewcastleLost 0-3 to ChelseaLost 0-2 to AFC Bournemouth
+19,West Ham,9,1,1,7,7,20,-13,4,Lost 1-2 to C PalaceDrew 1-1 with EvertonLost 0-2 to ArsenalLost 0-2 to BrentfordLost 1-2 to Leeds
+20,Wolves,9,0,2,7,7,19,-12,2,Lost 1-3 to LeedsDrew 1-1 with SpursDrew 1-1 with BrightonLost 0-2 to SunderlandLost 2-3 to Burnley
