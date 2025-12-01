@@ -1,0 +1,1 @@
+Use tab + type another letter to let the command line know which file you want to open, or which folder you want to go into.
